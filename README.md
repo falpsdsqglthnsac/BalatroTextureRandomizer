@@ -1,0 +1,3 @@
+A standalone application that creates a texture pack with the base game's textures randomized. The randomizer itself has no dependencies, but the resulting texture packs require [Steamodded](https://github.com/Steamodded/smods).
+
+Special thanks to emihead, whose [texture pack template](https://github.com/emihead/balatro-texture-pack-template) I used as a base, to CarrotonMan, whose [dark mode](https://github.com/CarrotonMan/balatrodarkmode) provided outlines for Mime's and Smeared Joker's faces, and to goose(), my friend who helped me test this.
